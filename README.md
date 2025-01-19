@@ -1,0 +1,1 @@
+# Photoshop Batch Image Processor
